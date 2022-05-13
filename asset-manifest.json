@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.4a981208.js",
-    "static/media/banniereAPropos.png": "/static/media/banniereAPropos.fce6fc3e9ed27433e9b0.png",
-    "static/media/banniere.png": "/static/media/banniere.efc1935eb81fc5e585f9.png",
-    "index.html": "/index.html",
-    "static/media/FlecheDropdown.svg": "/static/media/FlecheDropdown.4dfc3495cd10a7b5c2e22c0c09bd07c1.svg",
-    "main.4a981208.js.map": "/static/js/main.4a981208.js.map"
+    "main.js": "/YannickBertrand_11_React-Kasa_23042022/static/js/main.83e39484.js",
+    "static/media/banniereAPropos.png": "/YannickBertrand_11_React-Kasa_23042022/static/media/banniereAPropos.fce6fc3e9ed27433e9b0.png",
+    "static/media/banniere.png": "/YannickBertrand_11_React-Kasa_23042022/static/media/banniere.efc1935eb81fc5e585f9.png",
+    "index.html": "/YannickBertrand_11_React-Kasa_23042022/index.html",
+    "static/media/FlecheDropdown.svg": "/YannickBertrand_11_React-Kasa_23042022/static/media/FlecheDropdown.4dfc3495cd10a7b5c2e22c0c09bd07c1.svg",
+    "main.83e39484.js.map": "/YannickBertrand_11_React-Kasa_23042022/static/js/main.83e39484.js.map"
   },
   "entrypoints": [
-    "static/js/main.4a981208.js"
+    "static/js/main.83e39484.js"
   ]
 }

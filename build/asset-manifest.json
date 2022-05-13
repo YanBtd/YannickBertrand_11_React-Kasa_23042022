@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/static/js/main.4a981208.js",
+    "static/media/banniereAPropos.png": "/static/media/banniereAPropos.fce6fc3e9ed27433e9b0.png",
+    "static/media/banniere.png": "/static/media/banniere.efc1935eb81fc5e585f9.png",
+    "index.html": "/index.html",
+    "static/media/FlecheDropdown.svg": "/static/media/FlecheDropdown.4dfc3495cd10a7b5c2e22c0c09bd07c1.svg",
+    "main.4a981208.js.map": "/static/js/main.4a981208.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4a981208.js"
+  ]
+}
